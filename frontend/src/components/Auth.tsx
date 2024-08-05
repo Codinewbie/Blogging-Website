@@ -9,7 +9,7 @@ export const Auth = ({type} : {type : "signup" | "signin"}) => {
     const [postInputs,setPostInputs] = useState<SignupInput>({
         name : "",
         username: "",
-        password: " "
+        password: ""
     })
 
     async function sendRequest(){
