@@ -2,5 +2,5 @@ name = "blogging-website"
 compatibility_date = "2024-07-30"
 
 [vars]
-DATABASE_URL = ""
-JWT_SECRET = ""
+DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiY2RjNDk3NDUtNjdhOC00ZTMyLWE3MTAtYWM4ZDcxNzQwOGE3IiwidGVuYW50X2lkIjoiMDg3ZGUzMWM1ODA2MWZhODAwN2ExYzE2OGIzNTY2NDE3OTZlNzRiYTkyNzBhYzFhMjIyNmE5MTgwNmI0NTY1OCIsImludGVybmFsX3NlY3JldCI6IjAxNGY4NjljLTU2ZTYtNDgyNS05ODAwLTBiYjQ1MTg5OTE0MiJ9.eM7B85wPZS7kaS-hUvDeuLhL3ghYiD4V-RnIAwrYyus"
+JWT_SECRET = "jwtsecret"
