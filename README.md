@@ -54,11 +54,11 @@ A modern blogging platform built with TypeScript, Hono, SQL for the backend, and
     ```bash
     npm run dev
 
-    For production:
+5.  For production:
     ```bash
     npm run build
     npm start
-5. API Endpoints
+6. API Endpoints
 POST / - Create a new blog post.
 PUT / - Update an existing blog post.
 GET /bulk - Fetch all blog posts.
